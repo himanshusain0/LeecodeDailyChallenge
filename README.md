@@ -15,3 +15,7 @@ Data Structures & Algorithms skills.
 - Python (if applicable)
 
 - https://leetcode.com/problems/minimum-removals-to-balance-array/?envType=daily-question&envId=2026-02-06
+- https://leetcode.com/problems/minimum-removals-to-balance-array/?envType=daily-question&envId=2026-02-07
+- https://leetcode.com/problems/balanced-binary-tree/?envType=daily-question&envId=2026-02-08
+- https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2026-02-08
+- 
