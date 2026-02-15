@@ -20,4 +20,5 @@ Data Structures & Algorithms skills.
 - https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2026-02-08
 - https://leetcode.com/problems/balance-a-binary-search-tree/submissions/1913098404/?envType=daily-question&envId=2026-02-09
 - https://leetcode.com/problems/longest-balanced-subarray-ii/?envType=daily-question&envId=2026-02-11
-- http://leetcode.com/problems/longest-balanced-substring-ii/submissions/1917679296/?envType=daily-question&envId=2026-02-13 
+- http://leetcode.com/problems/longest-balanced-substring-ii/submissions/1917679296/?envType=daily-question&envId=2026-02-13
+- https://leetcode.com/problems/add-binary/submissions/1919928562/?envType=daily-question&envId=2026-02-15
